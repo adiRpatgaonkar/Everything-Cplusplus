@@ -1,0 +1,8 @@
+#
+#
+#   Makefile for C++
+#
+#
+
+google-0:google-0.cpp
+    g++ -std=c++14 -Wall -Werror -o google-0 google-0.cpp
